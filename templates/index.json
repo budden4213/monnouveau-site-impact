@@ -9,6 +9,22 @@
  */
 {
   "sections": {
+    "image_with_text_overlay_Jk3D8d": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/La_proprete_simplifiee_et_elegante.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "impact-text": {
       "type": "impact-text",
       "blocks": {
@@ -44,25 +60,69 @@
         "button_text_color": ""
       }
     },
-    "image_with_text_overlay_Jk3D8d": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
+    "logo_list_iXqMhi": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_iPWBPc": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/A-logo-Le-Monde-2.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_CpQEyP": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/GEO_Television.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_ecVLbt": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Logo_Europe1.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_qMD4bJ": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/ouest-france-logo-png_seeklogo-104658.png",
+            "logo_width": 170,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_iPWBPc",
+        "logo_CpQEyP",
+        "logo_ecVLbt",
+        "logo_qMD4bJ"
+      ],
+      "name": "Logo list",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/La_proprete_simplifiee_et_elegante.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "stack_mobile": true,
+        "title": "Logo list",
+        "content": "",
+        "text_alignment": "start",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
       }
     }
   },
   "order": [
     "image_with_text_overlay_Jk3D8d",
-    "impact-text"
+    "impact-text",
+    "logo_list_iXqMhi"
   ]
 }
