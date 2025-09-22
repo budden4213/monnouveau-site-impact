@@ -17,13 +17,29 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Livraison à domicile gratuite",
+            "url": ""
+          }
+        },
+        "message_N6LqHG": {
+          "type": "message",
+          "settings": {
+            "text": "Satisfait ou remboursé",
+            "url": ""
+          }
+        },
+        "message_4Ghpe4": {
+          "type": "message",
+          "settings": {
+            "text": "Paiement 100% sécurisé",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_N6LqHG",
+        "message_4Ghpe4"
       ],
       "settings": {
         "enable_sticky": false,
@@ -42,8 +58,8 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/ChatGPT_Image_22_sept._2025_18_33_47.png",
-        "logo_max_width": 120,
+        "logo": "shopify://shop_images/FreshyPop_Logo_transparent.png",
+        "logo_max_width": 140,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
         "sidebar_menu": "",
