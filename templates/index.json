@@ -195,6 +195,174 @@
         "overlay_color": "#79b9ec",
         "overlay_opacity": 0
       }
+    },
+    "testimonials_EeGQ8X": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_6gqrKJ": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Sarah K., 28 ans",
+            "title": "",
+            "content": "<p><em>\"Je voyage beaucoup pour le travail et ce bidet portable a révolutionné mon hygiène en déplacement. Fini les lingettes irritantes dans les hôtels ! Discret et efficace.\"</em></p>"
+          }
+        },
+        "testimonial_ggFyjX": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Pierre M., 52 ans",
+            "title": "",
+            "content": "<p><em>\"J'avais des hémorroïdes chroniques depuis des années. Mon médecin m'a conseillé ce type d'appareil. Quel soulagement ! Plus de douleur, plus d'irritation. Je l'utilise matin et soir.\"</em></p>"
+          }
+        },
+        "testimonial_ENiX67": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Marie L., 34 ans",
+            "title": "",
+            "content": "<p><em>\"Après mon accouchement, c'était un vrai calvaire d'aller aux toilettes. Ce petit bidet a été ma bouée de sauvetage ! Doux, efficace et si pratique. Je le recommande à toutes les jeunes mamans.\"</em></p>"
+          }
+        },
+        "testimonial_jRfAem": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Isabelle D., 67 ans",
+            "title": "",
+            "content": "<p><em>\"Avec l'âge, j'ai des problèmes de mobilité. Ce bidet m'aide énormément au quotidien. Plus besoin de me contorsionner, c'est un vrai confort. </em></p>"
+          }
+        },
+        "testimonial_d3LUic": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_E6j8aD": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_f8KgcK": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_zxRd6t": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_wHzNab": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_kmFm8E": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_epAzKP": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_xj4J9i": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_6gqrKJ",
+        "testimonial_ggFyjX",
+        "testimonial_ENiX67",
+        "testimonial_jRfAem",
+        "testimonial_d3LUic",
+        "testimonial_E6j8aD",
+        "testimonial_f8KgcK",
+        "testimonial_zxRd6t",
+        "testimonial_wHzNab",
+        "testimonial_kmFm8E",
+        "testimonial_epAzKP",
+        "testimonial_xj4J9i"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": true,
+        "subheading": "",
+        "title": "Testimonials",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
     }
   },
   "order": [
@@ -204,6 +372,7 @@
     "rich_text_ERrNCT",
     "image_with_text_overlay_yycReP",
     "rich_text_hxQhyd",
-    "video_9b3Rh6"
+    "video_9b3Rh6",
+    "testimonials_EeGQ8X"
   ]
 }
