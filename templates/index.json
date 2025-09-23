@@ -17,7 +17,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/La_proprete_simplifiee_et_elegante.png",
+        "image": "shopify://shop_images/ChatGPT_Image_23_sept._2025_13_24_37.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -39,7 +39,7 @@
         "logo_CpQEyP": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/GEO_Television.png",
+            "logo": "shopify://shop_images/Logo_Europe1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -47,7 +47,7 @@
         "logo_ecVLbt": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Logo_Europe1.png",
+            "logo": "shopify://shop_images/ouest-france-logo-png_seeklogo-104658.png",
             "logo_width": 120,
             "link": ""
           }
@@ -55,7 +55,7 @@
         "logo_qMD4bJ": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/ouest-france-logo-png_seeklogo-104658.png",
+            "logo": "shopify://shop_images/GEO_Television.png",
             "logo_width": 120,
             "link": ""
           }
@@ -141,7 +141,7 @@
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
-        "overlay_color": "#000000",
+        "overlay_color": "#79b9ec",
         "overlay_opacity": 0
       }
     },
