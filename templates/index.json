@@ -177,18 +177,10 @@
         "play_cRejri": {
           "type": "play",
           "settings": {}
-        },
-        "heading_rYRJ33": {
-          "type": "heading",
-          "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
-          }
         }
       },
       "block_order": [
-        "play_cRejri",
-        "heading_rYRJ33"
+        "play_cRejri"
       ],
       "name": "Video",
       "settings": {
