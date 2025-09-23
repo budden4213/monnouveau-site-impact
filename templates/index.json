@@ -267,11 +267,11 @@
         "item_GxJmti": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-09-23_a_18.57.48.png",
+            "image": "shopify://shop_images/Capture_d_ecran_2025-09-23_a_20.28.36.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Marc R.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><em>\"En camping-car depuis 3 ans, ce bidet est devenu indispensable ! Pratique dans les aires de service où il n'y a que des toilettes sèches. Le petit sac étanche fourni protège parfaitement mon sac de voyage de l'humidité. Il se glisse partout, même dans mon sac déjà bien chargé !\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
