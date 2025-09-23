@@ -206,7 +206,7 @@
             "column_size": "3",
             "title": "David D.",
             "heading_tag": "h4",
-            "content": "<p><strong>“Une expérience premium dès l’ouverture !”</strong></p><p>J’ai reçu ma douchette portable  aujourd’hui et franchement, dès le déballage j’ai été bluffé par la qualité. L’emballage est propre, minimaliste et très bien pensé.</p><p>Compact, élégant, avec un toucher agréable et des finitions solides. La mise en charge en USB-C est super simple et rapide, exactement comme mon smartphone. C’est pratique et rassurant de voir que FreshyPop a choisi la connectique moderne universelle.</p><p>Après quelques minutes, l’appareil était déjà prêt à l’emploi. On sent que la marque a misé sur la simplicité et le confort d’utilisation. J’ai hâte de l’emmener dans mes déplacements !</p>",
+            "content": "<p><em>J’ai reçu ma douchette portable  aujourd’hui et franchement, dès le déballage j’ai été bluffé par la qualité. L’emballage est propre, minimaliste et très bien pensé.</em></p><p><em>Compact, élégant, avec un toucher agréable et des finitions solides. La mise en charge en USB-C est super simple et rapide, exactement comme mon smartphone. C’est pratique et rassurant de voir que la marque a choisi la connectique moderne universelle.</em></p><p><em>Après quelques minutes, l’appareil était déjà prêt à l’emploi. On sent que la marque a misé sur la simplicité et le confort d’utilisation. J’ai hâte de l’emmener dans mes déplacements !</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -217,9 +217,9 @@
           "settings": {
             "image": "shopify://shop_images/Capture_d_ecran_2025-09-23_a_18.57.33.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Sarah K.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><em>\"Les toilettes publiques, mon cauchemar ! Maintenant avec ce bidet portable, je peux me nettoyer correctement même dans les gares. Plus petit qu'une gourde, il se transporte partout ! Le sac imperméable évite de mouiller mon sac à main, très pratique quand on est pressée.\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -232,7 +232,7 @@
             "column_size": "3",
             "title": "Julie M., 27 ans",
             "heading_tag": "h4",
-            "content": "<p>Jeune maman </p><p><em>\"Révolutionnaire pour le change de bébé ! Fini les lingettes pleines de produits chimiques douteux. Avec ce bidet et de l'eau pure, je nettoie parfaitement les fesses de mon fils. Plus d'érythème fessier depuis qu'on l'utilise ! Le réservoir de 50cl suffit pour plusieurs changes. Même dans nos petites toilettes, il se range parfaitement.\"</em></p>",
+            "content": "<p><em>\"Révolutionnaire pour le change de bébé ! Fini les lingettes pleines de produits chimiques douteux. Avec ce bidet et de l'eau pure, je nettoie parfaitement les fesses de mon fils. Plus d'érythème fessier depuis qu'on l'utilise ! Le réservoir de 50cl suffit pour plusieurs changes. Même dans nos petites toilettes, il se range parfaitement.\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -241,7 +241,33 @@
         "item_WNnWtq": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-09-23_a_17.32.04.png",
+            "image": "shopify://shop_images/Capture_d_ecran_2025-09-23_a_18.57.48.png",
+            "column_size": "3",
+            "title": "Karine L.",
+            "heading_tag": "h4",
+            "content": "<p><em>\"J'évite les lingettes depuis que j'ai lu leurs compositions... Parfois 20 ingrédients chimiques ! Ce bidet avec juste de l'eau c'est rassurant pour mes bébés. (2 beaux jumeaux)  Kit complet avec tout le nécessaire, les 350 ml durent toute une sortie avec les deux petits.</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_eTXPXL": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_4735.jpg",
+            "column_size": "3",
+            "title": "Laurent M.",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Dans mon métier,(plombier) j'interviens souvent dans des endroits sans installations correctes. Ce bidet portable me sauve ! Facile à utiliser d'une seule main comme on le voit sur la photo. L'ergonomie est parfaite, grip solide même avec des mains abîmées par le travail. Les 350ml  tiennent toute ma journée de chantier !\" ( à conditions de déposer une seule bûche 😉) </em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_GxJmti": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-09-23_a_18.57.48.png",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -251,14 +277,79 @@
             "link_style": "link"
           }
         },
-        "item_eTXPXL": {
+        "item_fJcjd4": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-09-23_a_17.28.24.png",
+            "image": "shopify://shop_images/IMG_4754.jpg",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_qR9aik": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_4725.jpg",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_bFaJTh": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_4752.jpg",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_VKpbBH": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_4753.jpg",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_9n7dzE": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_4738.jpg",
+            "column_size": "3",
+            "title": "Sophie T.",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Adepte du camping sauvage, ce bidet est parfait ! Plus petit qu'un smartphone, discret, le sac étanche se glisse partout dans mon sac à dos. 50cl c'est largement suffisant pour 2-3 jours en autonomie. Fini les lingettes qui polluent la nature !\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3hrbCT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_4740.jpg",
+            "column_size": "3",
+            "title": "Fatima B.",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Enceinte de 8 mois, impossible de me nettoyer correctement. Ce bidet a été un game-changer ! L'ergonomie permet de l'utiliser facilement même avec mon ventre rond. Tous les éléments se démontent facilement pour un nettoyage parfait. Hygiénique à 100% !\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -270,7 +361,14 @@
         "item_cKp9XQ",
         "item_PHAYMw",
         "item_WNnWtq",
-        "item_eTXPXL"
+        "item_eTXPXL",
+        "item_GxJmti",
+        "item_fJcjd4",
+        "item_qR9aik",
+        "item_bFaJTh",
+        "item_VKpbBH",
+        "item_9n7dzE",
+        "item_3hrbCT"
       ],
       "name": "Multi-column",
       "settings": {
