@@ -86,23 +86,6 @@
     },
     "impact-text": {
       "type": "impact-text",
-      "blocks": {
-        "item_77ARFJ": {
-          "type": "item",
-          "settings": {
-            "title": "100%",
-            "subheading": "Showcase a benefit of your product",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_77ARFJ"
-      ],
       "settings": {
         "full_width": true,
         "stack_mobile": true,
@@ -118,11 +101,117 @@
         "button_background": "",
         "button_text_color": ""
       }
+    },
+    "rich_text_ERrNCT": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_TbnFiH": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir Freshypop ?",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_TbnFiH"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_yycReP": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/benefice_freshypop.png",
+        "mobile_image": "shopify://shop_images/benefice_freshypop.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_hxQhyd": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_P84RnT": {
+          "type": "heading",
+          "settings": {
+            "text": "Résultat Avant/Aprés",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_P84RnT"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_9b3Rh6": {
+      "type": "video",
+      "blocks": {
+        "play_cRejri": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_rYRJ33": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_cRejri",
+        "heading_rYRJ33"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "video": "shopify://files/videos/Ajouter des lignes dans le corps du texte.mp4",
+        "mobile_video": "shopify://files/videos/Ajouter des lignes dans le corps du texte.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
     }
   },
   "order": [
     "image_with_text_overlay_Jk3D8d",
     "logo_list_iXqMhi",
-    "impact-text"
+    "impact-text",
+    "rich_text_ERrNCT",
+    "image_with_text_overlay_yycReP",
+    "rich_text_hxQhyd",
+    "video_9b3Rh6"
   ]
 }
