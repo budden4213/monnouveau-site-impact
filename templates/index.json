@@ -17,7 +17,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_23_sept._2025_13_24_37.png",
+        "image": "shopify://shop_images/ChatGPT_Image_23_sept._2025_13_15_10.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -196,172 +196,94 @@
         "overlay_opacity": 0
       }
     },
-    "testimonials_EeGQ8X": {
-      "type": "testimonials",
+    "multi_column_ctd9tM": {
+      "type": "multi-column",
       "blocks": {
-        "testimonial_6gqrKJ": {
-          "type": "testimonial",
+        "item_MPWHti": {
+          "type": "item",
           "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Sarah K., 28 ans",
-            "title": "",
-            "content": "<p><em>\"Je voyage beaucoup pour le travail et ce bidet portable a révolutionné mon hygiène en déplacement. Fini les lingettes irritantes dans les hôtels ! Discret et efficace.\"</em></p>"
+            "video": "shopify://files/videos/IMG_4736.MOV",
+            "column_size": "3",
+            "title": "David D.",
+            "heading_tag": "h4",
+            "content": "<p><strong>“Une expérience premium dès l’ouverture !”</strong></p><p>J’ai reçu ma douchette portable  aujourd’hui et franchement, dès le déballage j’ai été bluffé par la qualité. L’emballage est propre, minimaliste et très bien pensé.</p><p>Compact, élégant, avec un toucher agréable et des finitions solides. La mise en charge en USB-C est super simple et rapide, exactement comme mon smartphone. C’est pratique et rassurant de voir que FreshyPop a choisi la connectique moderne universelle.</p><p>Après quelques minutes, l’appareil était déjà prêt à l’emploi. On sent que la marque a misé sur la simplicité et le confort d’utilisation. J’ai hâte de l’emmener dans mes déplacements !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         },
-        "testimonial_ggFyjX": {
-          "type": "testimonial",
+        "item_cKp9XQ": {
+          "type": "item",
           "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Pierre M., 52 ans",
-            "title": "",
-            "content": "<p><em>\"J'avais des hémorroïdes chroniques depuis des années. Mon médecin m'a conseillé ce type d'appareil. Quel soulagement ! Plus de douleur, plus d'irritation. Je l'utilise matin et soir.\"</em></p>"
+            "image": "shopify://shop_images/Capture_d_ecran_2025-09-23_a_18.57.33.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         },
-        "testimonial_ENiX67": {
-          "type": "testimonial",
+        "item_PHAYMw": {
+          "type": "item",
           "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Marie L., 34 ans",
-            "title": "",
-            "content": "<p><em>\"Après mon accouchement, c'était un vrai calvaire d'aller aux toilettes. Ce petit bidet a été ma bouée de sauvetage ! Doux, efficace et si pratique. Je le recommande à toutes les jeunes mamans.\"</em></p>"
+            "image": "shopify://shop_images/IMG_4727.jpg",
+            "column_size": "3",
+            "title": "Julie M., 27 ans",
+            "heading_tag": "h4",
+            "content": "<p>Jeune maman </p><p><em>\"Révolutionnaire pour le change de bébé ! Fini les lingettes pleines de produits chimiques douteux. Avec ce bidet et de l'eau pure, je nettoie parfaitement les fesses de mon fils. Plus d'érythème fessier depuis qu'on l'utilise ! Le réservoir de 50cl suffit pour plusieurs changes. Même dans nos petites toilettes, il se range parfaitement.\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         },
-        "testimonial_jRfAem": {
-          "type": "testimonial",
+        "item_WNnWtq": {
+          "type": "item",
           "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "Isabelle D., 67 ans",
-            "title": "",
-            "content": "<p><em>\"Avec l'âge, j'ai des problèmes de mobilité. Ce bidet m'aide énormément au quotidien. Plus besoin de me contorsionner, c'est un vrai confort. </em></p>"
+            "image": "shopify://shop_images/Capture_d_ecran_2025-09-23_a_17.32.04.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         },
-        "testimonial_d3LUic": {
-          "type": "testimonial",
+        "item_eTXPXL": {
+          "type": "item",
           "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Thomas V., 35 ans",
-            "title": "",
-            "content": "<p><em>\"Ma femme était sceptique au début, elle pensait que c'était un gadget maintenant on se le dispute ! Plus de papier toilette qui gratte, une propreté parfaite. On a calculé qu'on économise 15€ par mois en PQ.\"</em></p>"
-          }
-        },
-        "testimonial_E6j8aD": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "Fatima B., 29 ans",
-            "title": "",
-            "content": "<p><em>\"Enceinte de 8 mois, impossible de me nettoyer correctement. Ce bidet a été un game-changer ! Facile à utiliser même avec mon ventre rond. Je le garde après l'accouchement c'est sûr !\"</em></p>"
-          }
-        },
-        "testimonial_f8KgcK": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Jean-Luc P., 58 ans",
-            "title": "",
-            "content": "<p><em>\"Opéré de la prostate récemment, mon urologue m'a recommandé ce type d'appareil. Parfait pour éviter les infections ! Simple d'utilisation et très hygiénique.\"</em></p>"
-          }
-        },
-        "testimonial_zxRd6t": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "Camille T., 26 ans",
-            "title": "",
-            "content": "<p><em>\"J'ai des règles douloureuses et abondantes. Ce bidet m'aide beaucoup pendant cette période difficile. L'eau tiède apaise vraiment. Je recommande à toutes les femmes qui souffrent comme moi.\"</em></p><h2></h2>"
-          }
-        },
-        "testimonial_wHzNab": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Romuald A., 45 ans",
-            "title": "",
-            "content": "<p><em>\"Je travaille dans le BTP, souvent dans des endroits sans toilettes décentes. Ce petit bidet portable me sauve la vie ! Je peux enfin être propre même sur les chantiers.\"</em></p>"
-          }
-        },
-        "testimonial_kmFm8E": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Nathalie F., 39 ans",
-            "title": "",
-            "content": "<p><em>\"Ma gynécologue m'avait conseillé d'améliorer mon hygiène intime suite à des mycoses récurrentes. Depuis que j'utilise ce bidet, plus aucun problème ! Un investissement santé formidable.\"</em></p>"
-          }
-        },
-        "testimonial_epAzKP": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "David L., 31 ans",
-            "title": "",
-            "content": "<h2></h2><p><em>\"Pratique pour le sport ! Après mes séances de running, je peux me rafraîchir rapidement. Compact, facile à transporter dans mon sac de sport. Juste dommage que le réservoir soit un peu petit.\"</em></p>"
-          }
-        },
-        "testimonial_xj4J9i": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "image": "shopify://shop_images/Capture_d_ecran_2025-09-23_a_17.28.24.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         }
       },
       "block_order": [
-        "testimonial_6gqrKJ",
-        "testimonial_ggFyjX",
-        "testimonial_ENiX67",
-        "testimonial_jRfAem",
-        "testimonial_d3LUic",
-        "testimonial_E6j8aD",
-        "testimonial_f8KgcK",
-        "testimonial_zxRd6t",
-        "testimonial_wHzNab",
-        "testimonial_kmFm8E",
-        "testimonial_epAzKP",
-        "testimonial_xj4J9i"
+        "item_MPWHti",
+        "item_cKp9XQ",
+        "item_PHAYMw",
+        "item_WNnWtq",
+        "item_eTXPXL"
       ],
-      "name": "Testimonials",
+      "name": "Multi-column",
       "settings": {
         "full_width": true,
-        "stack_testimonials": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
         "subheading": "",
         "title": "Nos clients en parlent mieux que nous",
         "content": "",
-        "link_url": "",
-        "link_text": "",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "testimonial_card_background": "",
-        "testimonial_card_text_color": ""
+        "text_color": ""
       }
     },
     "featured_product_nacThE": {
@@ -477,7 +399,7 @@
     "image_with_text_overlay_yycReP",
     "rich_text_hxQhyd",
     "video_9b3Rh6",
-    "testimonials_EeGQ8X",
+    "multi_column_ctd9tM",
     "featured_product_nacThE"
   ]
 }
