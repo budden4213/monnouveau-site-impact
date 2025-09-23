@@ -270,10 +270,10 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "rating": 5,
+            "author": "Jean-Luc P., 58 ans",
+            "title": "",
+            "content": "<p><em>\"Opéré de la prostate récemment, mon urologue m'a recommandé ce type d'appareil. Parfait pour éviter les infections ! Simple d'utilisation et très hygiénique.\"</em></p>"
           }
         },
         "testimonial_zxRd6t": {
@@ -282,9 +282,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Camille T., 26 ans",
+            "title": "",
+            "content": "<p><em>\"J'ai des règles douloureuses et abondantes. Ce bidet m'aide beaucoup pendant cette période difficile. L'eau tiède apaise vraiment. Je recommande à toutes les femmes qui souffrent comme moi.\"</em></p><h2></h2>"
           }
         },
         "testimonial_wHzNab": {
@@ -292,10 +292,10 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "rating": 5,
+            "author": "Romuald A., 45 ans",
+            "title": "",
+            "content": "<p><em>\"Je travaille dans le BTP, souvent dans des endroits sans toilettes décentes. Ce petit bidet portable me sauve la vie ! Je peux enfin être propre même sur les chantiers.\"</em></p>"
           }
         },
         "testimonial_kmFm8E": {
@@ -303,10 +303,10 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "rating": 5,
+            "author": "Nathalie F., 39 ans",
+            "title": "",
+            "content": "<p><em>\"Ma gynécologue m'avait conseillé d'améliorer mon hygiène intime suite à des mycoses récurrentes. Depuis que j'utilise ce bidet, plus aucun problème ! Un investissement santé formidable.\"</em></p>"
           }
         },
         "testimonial_epAzKP": {
@@ -315,9 +315,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "David L., 31 ans",
+            "title": "",
+            "content": "<h2></h2><p><em>\"Pratique pour le sport ! Après mes séances de running, je peux me rafraîchir rapidement. Compact, facile à transporter dans mon sac de sport. Juste dommage que le réservoir soit un peu petit.\"</em></p>"
           }
         },
         "testimonial_xj4J9i": {
@@ -363,6 +363,110 @@
         "testimonial_card_background": "",
         "testimonial_card_text_color": ""
       }
+    },
+    "featured_product_nacThE": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_YiLqd9": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_93hkKK": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_hkUa9M": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_t7tyXA": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_pYafUR": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_PXiKJD": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_Cz3bbG": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
+        "variant_picker_KFJHD9": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_QHt7FY": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_y9AJAL": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_XARETg": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_YiLqd9",
+        "title_93hkKK",
+        "badges_hkUa9M",
+        "price_t7tyXA",
+        "rating_pYafUR",
+        "separator_PXiKJD",
+        "description_Cz3bbG",
+        "variant_picker_KFJHD9",
+        "quantity_selector_QHt7FY",
+        "buy_buttons_y9AJAL",
+        "pickup_availability_XARETg"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
     }
   },
   "order": [
@@ -373,6 +477,7 @@
     "image_with_text_overlay_yycReP",
     "rich_text_hxQhyd",
     "video_9b3Rh6",
-    "testimonials_EeGQ8X"
+    "testimonials_EeGQ8X",
+    "featured_product_nacThE"
   ]
 }
