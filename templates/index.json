@@ -248,10 +248,10 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "rating": 5,
+            "author": "Thomas V., 35 ans",
+            "title": "",
+            "content": "<p><em>\"Ma femme était sceptique au début, elle pensait que c'était un gadget maintenant on se le dispute ! Plus de papier toilette qui gratte, une propreté parfaite. On a calculé qu'on économise 15€ par mois en PQ.\"</em></p>"
           }
         },
         "testimonial_E6j8aD": {
@@ -260,9 +260,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Fatima B., 29 ans",
+            "title": "",
+            "content": "<p><em>\"Enceinte de 8 mois, impossible de me nettoyer correctement. Ce bidet a été un game-changer ! Facile à utiliser même avec mon ventre rond. Je le garde après l'accouchement c'est sûr !\"</em></p>"
           }
         },
         "testimonial_f8KgcK": {
