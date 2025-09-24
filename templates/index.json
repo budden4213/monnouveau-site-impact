@@ -468,15 +468,11 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
+            "atc_button_background": "#f0c417",
+            "atc_button_text_color": "#1a1a1a",
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
-        },
-        "pickup_availability_XARETg": {
-          "type": "pickup_availability",
-          "settings": {}
         }
       },
       "block_order": [
@@ -488,8 +484,7 @@
         "description_Cz3bbG",
         "variant_picker_KFJHD9",
         "quantity_selector_QHt7FY",
-        "buy_buttons_y9AJAL",
-        "pickup_availability_XARETg"
+        "buy_buttons_y9AJAL"
       ],
       "name": "Featured product",
       "settings": {
@@ -509,6 +504,72 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "tabs_tEyDYN": {
+      "type": "tabs",
+      "blocks": {
+        "tab_ytbpx3": {
+          "type": "tab",
+          "settings": {
+            "title": "Caractéristique",
+            "content": "<p>Use this text to share information about your brand with your customers.</p>",
+            "page": ""
+          }
+        },
+        "tab_T6QcMT": {
+          "type": "tab",
+          "settings": {
+            "title": "Essayez le 30 jours gratuitement",
+            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "tab_3r4LEJ": {
+          "type": "tab",
+          "settings": {
+            "title": "Livraison gratuite à domicile",
+            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "page": ""
+          }
+        },
+        "tab_fXKkg9": {
+          "type": "tab",
+          "settings": {
+            "title": "Service client 7J/7",
+            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "page": ""
+          }
+        },
+        "tab_ULNeUy": {
+          "type": "tab",
+          "settings": {
+            "title": "Charge optimale",
+            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_ytbpx3",
+        "tab_T6QcMT",
+        "tab_3r4LEJ",
+        "tab_fXKkg9",
+        "tab_ULNeUy"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "small",
+        "subheading": "",
+        "title": "",
+        "text_alignment": "center",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
@@ -521,6 +582,7 @@
     "video_9b3Rh6",
     "multi_column_ctd9tM",
     "custom_liquid_Jm6H8j",
-    "featured_product_nacThE"
+    "featured_product_nacThE",
+    "tabs_tEyDYN"
   ]
 }
