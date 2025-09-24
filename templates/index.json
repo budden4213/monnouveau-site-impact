@@ -212,6 +212,19 @@
             "link_style": "link"
           }
         },
+        "item_mhe67z": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_4760.heic",
+            "column_size": "3",
+            "title": "Léa S.",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Livraison en 4 jours ! Indispensable pour les cours de natation de mon fils de 3 ans. Les toilettes de la piscine municipale... on connaît ! Maintenant je peux le nettoyer correctement après ses \"petits accidents\" dans l'eau. Plus de stress, plus de lingettes qui irritent sa peau sensible !\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_cKp9XQ": {
           "type": "item",
           "settings": {
@@ -358,6 +371,7 @@
       },
       "block_order": [
         "item_MPWHti",
+        "item_mhe67z",
         "item_cKp9XQ",
         "item_PHAYMw",
         "item_WNnWtq",
