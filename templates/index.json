@@ -398,6 +398,19 @@
         "text_color": ""
       }
     },
+    "custom_liquid_Jm6H8j": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": false,
+        "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <style>\n    .avis-container {\n      font-family: 'Poppins', sans-serif;\n      display: flex;\n      align-items: center;\n      gap: 8px;\n      font-size: 18px;\n      font-weight: 600;\n      color: #1a1a1a;\n    \n\n    .stars {\n      color: #3BB77E; /* Vert doux */\n      font-size: 20px;\n      letter-spacing: 2px;\n    }\n\n    .note {\n      font-size: 16px;\n      color: #333;\n    }\n  </style>\n</head>\n<body>\n\n  <div class=\"avis-container\">\n    <div         class=\"stars\">                     \n\n\n                                         ★★★★★    </div>\n\n    <div class=\"note\">4.9/5 (342 avis)</div>\n  </div>\n\n</body>\n</html>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "featured_product_nacThE": {
       "type": "featured-product",
       "blocks": {
@@ -496,19 +509,6 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
-    },
-    "custom_liquid_Jm6H8j": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <style>\n    .avis-container {\n      font-family: 'Poppins', sans-serif;\n      display: flex;\n      align-items: center;\n      gap: 8px;\n      font-size: 18px;\n      font-weight: 600;\n      color: #1a1a1a;\n    }\n\n    .stars {\n      color: #3BB77E; /* Vert doux */\n      font-size: 20px;\n      letter-spacing: 2px;\n    }\n\n    .note {\n      font-size: 16px;\n      color: #333;\n    }\n  </style>\n</head>\n<body>\n\n  <div class=\"avis-container\">\n    <div class=\"stars\">★★★★★</div>\n    <div class=\"note\">4.9/5 (179 avis)</div>\n  </div>\n\n</body>\n</html>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
     }
   },
   "order": [
@@ -520,7 +520,7 @@
     "rich_text_hxQhyd",
     "video_9b3Rh6",
     "multi_column_ctd9tM",
-    "featured_product_nacThE",
-    "custom_liquid_Jm6H8j"
+    "custom_liquid_Jm6H8j",
+    "featured_product_nacThE"
   ]
 }
