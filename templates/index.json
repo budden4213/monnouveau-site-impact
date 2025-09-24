@@ -656,17 +656,17 @@
         "subheading": "Notre service client est disponible 7J/7 délai de réponse moyen 24H",
         "title": "Une question ?",
         "content": "",
-        "text_position": "start",
+        "text_position": "center",
         "contact_form_size": "large",
-        "background": "",
+        "background": "#f0f0f0",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "contact_background": "",
+        "contact_background": "#ffffff",
         "contact_text_color": "",
-        "button_background": "",
-        "button_text_color": ""
+        "button_background": "#79b9ec",
+        "button_text_color": "#1a1a1a"
       }
     }
   },
