@@ -544,7 +544,7 @@
           "type": "tab",
           "settings": {
             "title": "Charge optimale",
-            "content": "<p><strong>harge optimale</strong><br/><br/>Équipé d’une batterie rechargeable en USB-C, FreshyPop offre une autonomie longue durée. Une seule charge permet jusqu'à 50 utilisations</p>",
+            "content": "<p>Équipé d’une batterie rechargeable en USB-C, FreshyPop offre une autonomie longue durée. Une seule charge permet jusqu'à 50 utilisations</p>",
             "page": ""
           }
         }
@@ -559,7 +559,7 @@
       "name": "Tabs",
       "settings": {
         "full_width": true,
-        "content_size": "small",
+        "content_size": "medium",
         "subheading": "",
         "title": "",
         "text_alignment": "center",
@@ -630,7 +630,7 @@
         "full_width": true,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
         "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
         "answer_time": "Average answer time: 24h",
@@ -647,6 +647,27 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "contact_UHNrrn": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "Notre service client est disponible 7J/7 délai de réponse moyen 24H",
+        "title": "Une question ?",
+        "content": "",
+        "text_position": "start",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -661,6 +682,7 @@
     "custom_liquid_Jm6H8j",
     "featured_product_nacThE",
     "tabs_tEyDYN",
-    "faq_LqD8Vt"
+    "faq_LqD8Vt",
+    "contact_UHNrrn"
   ]
 }
