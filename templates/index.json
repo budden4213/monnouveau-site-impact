@@ -32,7 +32,7 @@
         "full_width": true,
         "text": "Promotion text",
         "text_size": "medium",
-        "text_style": "outline",
+        "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 10,
         "background": "",
@@ -222,7 +222,7 @@
             "column_size": "3",
             "title": "David D.",
             "heading_tag": "h4",
-            "content": "<p><em>J’ai reçu ma douchette portable  aujourd’hui et franchement, dès le déballage j’ai été bluffé par la qualité. L’emballage est propre, minimaliste et très bien pensé.</em></p><p><em>Compact, élégant, avec un toucher agréable et des finitions solides. La mise en charge en USB-C est super simple et rapide, exactement comme mon smartphone. C’est pratique et rassurant de voir que la marque a choisi la connectique moderne universelle.</em></p><p><em>Après quelques minutes, l’appareil était déjà prêt à l’emploi. On sent que la marque a misé sur la simplicité et le confort d’utilisation. J’ai hâte de l’emmener dans mes déplacements !</em></p>",
+            "content": "<p>Reçue aujourd’hui : douchette portable au design élégant, solide et compacte. Recharge USB-C rapide, prête à l’emploi en minutes. Pratique et parfaite pour mes déplacements !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
