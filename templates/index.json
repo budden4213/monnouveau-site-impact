@@ -218,10 +218,10 @@
         "item_MPWHti": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/IMG_4736.MOV",
+            "video": "shopify://files/videos/Design sans titre.mp4",
             "column_size": "3",
             "title": "David D.",
-            "heading_tag": "h4",
+            "heading_tag": "h5",
             "content": "<p>Reçue aujourd’hui : douchette portable au design élégant, solide et compacte. Recharge USB-C rapide, prête à l’emploi en minutes. Pratique et parfaite pour mes déplacements !</p>",
             "link_url": "",
             "link_text": "",
