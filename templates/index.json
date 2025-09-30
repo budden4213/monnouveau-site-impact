@@ -18,28 +18,12 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/VOS_WC_JAPONAIS_OU_QUE_VOUS_SOYEZ_4.png",
-        "mobile_image": "shopify://shop_images/VOS_WC_JAPONAIS_OU_QUE_VOUS_SOYEZ_4.png",
+        "mobile_image": "shopify://shop_images/Capture_d_ecran_2025-09-30_a_17.23.04.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
-      }
-    },
-    "scrolling_text_gEFHyw": {
-      "type": "scrolling-text",
-      "name": "Scrolling text",
-      "settings": {
-        "full_width": true,
-        "text": "Promotion text",
-        "text_size": "medium",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 10,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
       }
     },
     "logo_list_iXqMhi": {
@@ -689,7 +673,6 @@
   },
   "order": [
     "image_with_text_overlay_Jk3D8d",
-    "scrolling_text_gEFHyw",
     "logo_list_iXqMhi",
     "impact-text",
     "rich_text_ERrNCT",
