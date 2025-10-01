@@ -92,11 +92,11 @@
         "stack_mobile": true,
         "text_alignment": "center",
         "impact_text_style": "fill",
-        "text_divider": "circle",
+        "text_divider": "diamond",
         "impact_text_size_ratio": 1,
         "background": "",
         "background_gradient": "",
-        "heading_text_color": "",
+        "heading_text_color": "#0b2b97",
         "heading_gradient": "linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)",
         "text_color": "",
         "button_background": "",
@@ -154,7 +154,7 @@
           "settings": {
             "text": "Résultat Avant/Aprés",
             "heading_tag": "h3",
-            "text_color": "#042dbc",
+            "text_color": "#0b2b97",
             "gradient": ""
           }
         }
@@ -396,7 +396,7 @@
         "content": "",
         "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#042dbc"
+        "text_color": "#0b2b97"
       }
     },
     "featured_product_nacThE": {
@@ -639,13 +639,13 @@
         "contact_form_size": "large",
         "background": "#f0f0f0",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#0b2b97",
         "heading_color": "",
         "heading_gradient": "",
         "contact_background": "#ffffff",
         "contact_text_color": "",
-        "button_background": "#79b9ec",
-        "button_text_color": "#1a1a1a"
+        "button_background": "#0b2b97",
+        "button_text_color": "#ffffff"
       }
     }
   },
