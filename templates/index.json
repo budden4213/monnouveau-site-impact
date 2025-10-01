@@ -154,7 +154,7 @@
           "settings": {
             "text": "Résultat Avant/Aprés",
             "heading_tag": "h3",
-            "text_color": "",
+            "text_color": "#042dbc",
             "gradient": ""
           }
         }
@@ -394,9 +394,9 @@
         "subheading": "",
         "title": "Nos clients en parlent mieux que nous",
         "content": "",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#042dbc"
       }
     },
     "featured_product_nacThE": {
