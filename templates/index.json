@@ -11,22 +11,6 @@
   "sections": {
     "image_with_text_overlay_Jk3D8d": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "button_pNBfUc": {
-          "type": "button",
-          "settings": {
-            "style": "fill",
-            "size": "sm",
-            "text": "ACHETEZ MAINTENANT",
-            "url": "",
-            "background": "",
-            "text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "button_pNBfUc"
-      ],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
@@ -108,10 +92,10 @@
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "heading_color": "",
+        "heading_color": "#042dbc",
         "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
+        "logo_item_background": "#f0f0f0",
+        "logo_item_border": "#042dbc"
       }
     },
     "impact-text": {
@@ -121,7 +105,7 @@
         "stack_mobile": true,
         "text_alignment": "center",
         "impact_text_style": "fill",
-        "text_divider": "none",
+        "text_divider": "circle",
         "impact_text_size_ratio": 1,
         "background": "",
         "background_gradient": "",
