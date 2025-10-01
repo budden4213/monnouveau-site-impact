@@ -26,19 +26,6 @@
         "overlay_opacity": 0
       }
     },
-    "custom_liquid_Jm6H8j": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": true,
-        "remove_horizontal_spacing": false,
-        "liquid": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "logo_list_iXqMhi": {
       "type": "logo-list",
       "blocks": {
@@ -124,7 +111,7 @@
           "settings": {
             "text": "Pourquoi choisir Freshypop ?",
             "heading_tag": "h3",
-            "text_color": "",
+            "text_color": "#042dbc",
             "gradient": ""
           }
         }
@@ -673,7 +660,6 @@
   },
   "order": [
     "image_with_text_overlay_Jk3D8d",
-    "custom_liquid_Jm6H8j",
     "logo_list_iXqMhi",
     "impact-text",
     "rich_text_ERrNCT",
