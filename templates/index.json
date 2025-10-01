@@ -11,6 +11,22 @@
   "sections": {
     "image_with_text_overlay_Jk3D8d": {
       "type": "image-with-text-overlay",
+      "blocks": {
+        "button_pNBfUc": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "sm",
+            "text": "ACHETEZ MAINTENANT",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "button_pNBfUc"
+      ],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
@@ -18,12 +34,25 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/VOS_WC_JAPONAIS_OU_QUE_VOUS_SOYEZ_4.png",
-        "mobile_image": "shopify://shop_images/Capture_d_ecran_2025-09-30_a_17.23.04.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "mobile_image": "shopify://shop_images/image_mobile.png",
+        "mobile_text_position": "place-self-end-start text-start",
+        "desktop_text_position": "sm:place-self-end-start sm:text-start",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
+      }
+    },
+    "custom_liquid_Jm6H8j": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": false,
+        "liquid": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "logo_list_iXqMhi": {
@@ -399,19 +428,6 @@
         "text_color": ""
       }
     },
-    "custom_liquid_Jm6H8j": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": true,
-        "remove_horizontal_spacing": false,
-        "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <style>\n    .avis-container {\n      font-family: 'Poppins', sans-serif;\n      display: flex;\n      align-items: center;\n      gap: 8px;\n      font-size: 18px;\n      font-weight: 600;\n      color: #1a1a1a;\n    \n\n    .stars {\n      color: #3BB77E; /* Vert doux */\n      font-size: 20px;\n      letter-spacing: 2px;\n    }\n\n    .note {\n      font-size: 16px;\n      color: #333;\n    }\n  </style>\n</head>\n<body>\n\n  <div class=\"avis-container\">\n    <div         class=\"stars\">                     \n\n\n                                         ★★★★★    </div>\n\n    <div class=\"note\">4.9/5 (342 avis)</div>\n  </div>\n\n</body>\n</html>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "featured_product_nacThE": {
       "type": "featured-product",
       "blocks": {
@@ -673,6 +689,7 @@
   },
   "order": [
     "image_with_text_overlay_Jk3D8d",
+    "custom_liquid_Jm6H8j",
     "logo_list_iXqMhi",
     "impact-text",
     "rich_text_ERrNCT",
@@ -680,7 +697,6 @@
     "rich_text_hxQhyd",
     "video_9b3Rh6",
     "multi_column_ctd9tM",
-    "custom_liquid_Jm6H8j",
     "featured_product_nacThE",
     "tabs_tEyDYN",
     "faq_LqD8Vt",
