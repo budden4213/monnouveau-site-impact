@@ -44,11 +44,11 @@
       "settings": {
         "enable_sticky": true,
         "autoplay": true,
-        "cycle_speed": 6,
-        "text_size": "text-lg",
+        "cycle_speed": 4,
+        "text_size": "text-base",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#042dbc",
+        "background": "#2551ec",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
