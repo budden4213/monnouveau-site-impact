@@ -418,17 +418,17 @@
     "custom_liquid_6bMTpa": {
       "type": "custom-liquid",
       "custom_css": [
-        ".rating-inline {display: inline-flex; align-items: center; gap: 8px; font: 600 14px/1.2 system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif; margin-bottom: 10px; /* espace avec le titre */}",
+        ".rating-inline {display: inline-flex; align-items: center; gap: 8px; font: 600 14px/1.2 system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin-bottom: 10px; /* espace avec le titre */}",
         ".rating-stars {display: inline-flex; gap: 2px;}",
         ".rating-star {width: 18px; height: 18px; display: inline-block;}",
-        ".rating-star svg {width: 100%; height: 100%; fill: #00B67A; /* vert Trustpilot */}"
+        ".rating-star svg {width: 100%; height: 100%; fill: #00b67a; /* vert Trustpilot */}"
       ],
       "name": "Custom Liquid",
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": true,
         "remove_horizontal_spacing": true,
-        "liquid": "",
+        "liquid": "<!-- Bloc étoiles + avis -->\n<div class=\"rating-inline\" aria-   label=\"Note       5 sur 5 basée sur 1600 avis\">\n  <span class=\"rating-stars\" aria-hidden=\"true\">\n    {% for i in (1..5) %}\n    <span class=\"rating-star\">\n      <svg viewBox=\"0 0 24 24\"><path d=\"M12 2l3.09 6.26 6.91.99-5 4.87 1.18 6.88L12 17.77 5.82 21l1.18-6.88-5-4.87 6.91-.99L12 2z\"/></svg>\n    </span>\n    {% endfor %}\n  </span>\n  <span>1600+ avis</span>\n</div>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
