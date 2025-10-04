@@ -29,6 +29,14 @@
     "logo_list_iXqMhi": {
       "type": "logo-list",
       "blocks": {
+        "logo_qMD4bJ": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/logo_final_doctissimo.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
         "logo_iPWBPc": {
           "type": "logo",
           "settings": {
@@ -52,21 +60,13 @@
             "logo_width": 120,
             "link": ""
           }
-        },
-        "logo_qMD4bJ": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/GEO_Television.png",
-            "logo_width": 120,
-            "link": ""
-          }
         }
       },
       "block_order": [
+        "logo_qMD4bJ",
         "logo_iPWBPc",
         "logo_CpQEyP",
-        "logo_ecVLbt",
-        "logo_qMD4bJ"
+        "logo_ecVLbt"
       ],
       "name": "Logo list",
       "settings": {
@@ -137,8 +137,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Votre_texte_de_paragraphe_2.png",
-        "mobile_image": "shopify://shop_images/Votre_texte_de_paragraphe_4.png",
+        "image": "shopify://shop_images/benefice_prod.jpg",
+        "mobile_image": "shopify://shop_images/benefice_prod.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
